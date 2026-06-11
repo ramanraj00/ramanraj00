@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Hi, I'm Raman Raj
 
-<!--
-**ramanraj00/ramanraj00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Full Stack Developer
 
-Here are some ideas to get you started:
+ Building modern web applications using React, Node.js and MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently Learning:
+- Next.js
+- System Design
+- Backend Architecture
+
+
+ Tech Stack
+
+Languages
+- HTML
+- CSS
+- JavaScript
+- C
+- C++
+- Java
+- Python
+
+ Frontend
+- React.js
+- Tailwind CSS
+- GSAP
+
+ Backend
+- Node.js
+- Express.js
+
+ Database
+- MongoDB
+
+ Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+
+
