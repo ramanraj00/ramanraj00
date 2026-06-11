@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raman Raj
+Hi, I'm Raman Raj
 
 Full Stack Developer | React • Node.js • MongoDB |  Learning Next.js, System Design & Backend Architecture |  Aspiring Software Engineer building scalable products
 
