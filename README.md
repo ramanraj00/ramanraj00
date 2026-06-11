@@ -3,13 +3,9 @@
  💫 About Me:
 
 I'm looking for a Internship
-
 I'm looking to collaborate with people for hackathons
-
 I'm looking for making lots of connections
-
 I'm currently building Projects
-
 Ask me about Coding, Life, Stupidity
  
 
