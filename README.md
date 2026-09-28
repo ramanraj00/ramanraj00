@@ -1,18 +1,4 @@
- Hi, I'm Raman Raj
- Full Stack Developer
- 
- 💫 About Me:
-
-I'm looking for a Internship
-
-I'm looking to collaborate with people for hackathons
-
-I'm looking for making lots of connections
-
-I'm currently building Projects
-
-Ask me about Coding, Life, Stupidity
- 
+Hello, I am Raman and I love coputer science 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
